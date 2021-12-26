@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to My profile's page
 
-You can use the [editor on GitHub](https://github.com/toanuitt/ductoan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Thông tin
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-Tên:Phạm Đức Toàn
 
-### Markdown
+-Ngày sinh:23/02/2003
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-Nơi ở:Sông cầu,Phú Yên
 
 ```markdown
 Syntax highlighted code block
